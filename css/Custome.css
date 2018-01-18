@@ -1,0 +1,35 @@
+﻿body
+{
+}
+.header
+{
+	background-color: #737373;
+	color: # ffffff;
+}
+.fullslak
+{
+	color: #ffffff;
+	width: 100%;
+}
+.fullslak a
+{
+	color: #ffffff;
+}
+.PadCenter
+{
+	text-align: center;
+}
+.PadRight
+{
+	text-align: right;
+}
+.topAnchor a
+{
+	color: #ffffff;
+	cursor: pointer;
+}
+.headerText
+{
+ color:#fff;	
+}
+

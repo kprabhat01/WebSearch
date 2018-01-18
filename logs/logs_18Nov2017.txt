@@ -1,0 +1,10 @@
+http://localhost:49241/WebPart/Feedback.aspx
+18-Nov-2017 09:16:38    at MySql.Data.MySqlClient.MySqlStream.OpenPacket()
+   at MySql.Data.MySqlClient.NativeDriver.ReadResult(UInt64& affectedRows, Int64& lastInsertId)
+   at MySql.Data.MySqlClient.MySqlDataReader.GetResultSet()
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at WebPart_Feedback.Sub_Click(Object sender, EventArgs e) in g:\Projects\SearchEngin\WebRobo\WebPart\Feedback.aspx.cs:line 36
+
+
